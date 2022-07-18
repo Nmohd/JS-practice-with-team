@@ -1,0 +1,38 @@
+18/07/2022 19:30 History of javascript
+
+1995 Netscape browser
+Need of simple programming language for adding interaction in wth website.
+Brendan Eich developed the JS in only 10 days and named it as Mocha.
+He changed the name to Livescript the popularity was not so well. 
+That time the Java language was very popular.
+Than changed the name from live script to Java script.
+IE browser was very popular at that time. The netscape browser was getting famous due to Java script.
+So microsoft taken the JS and added some more features and named it as Jscript.
+In 1996 there were 2 languages that is Jscipt and javascript.
+People were confused some were designing with jscript and adding the tag of best viewed in IE 
+and some were designing the site in JS and adding the tag of best viewed in Netscape browser.
+Than teh Ecma came into picture to standardised the script language.
+JS has the rights with oracle thats it is called ecma script. 
+1997 ES-1 
+this must be implemented in all the browsers
+ES-2 2009 than ES-6 got many features.
+ES-6 in 2015 Modern JS
+4 stages to be passed for every version of the JS..
+Javascript is backward compatible 
+the feautre which is realeased in ES 1 will work in latest version
+Babel transfile the script to run on old browsers.
+Backticks are used in string templates 
+Comments are ignored by the JS engine.
+Strings are group of characters
+Variable names are case sensitive.
+use strict to escape making mistakes above in the first line.
+Using underscore in between the words in place of space than it is called snake case writing
+Let does not allow you to declare the variable again
+in 2016 Let came into picture before that people used var 
+pi value cannot be changed so we use const.
+constant is declared have to used.
+Spaces also get included in the .length
+Space also gets consoled.
+String is immutable
+the tri,Slice and upperCase method always gives a new string rather than manipulating the same string 
+
