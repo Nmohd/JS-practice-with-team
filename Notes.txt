@@ -35,4 +35,12 @@ Spaces also get included in the .length
 Space also gets consoled.
 String is immutable
 the trim,Slice and upperCase method always gives a new string rather than manipulating the same string 
+String template is done by using back ticks
+undefined is the key word 
+Typeof null is object 
+Bigint can be done by two types 
+1.Writing Bigint before the number starts
+2.writing n after the numbers
 
+Bigint can only concatenates with the BigInt type only.
+== only checks for the value not about the datatype but === checks out the value too.
