@@ -34,5 +34,5 @@ constant is declared have to used.
 Spaces also get included in the .length
 Space also gets consoled.
 String is immutable
-the tri,Slice and upperCase method always gives a new string rather than manipulating the same string 
+the trim,Slice and upperCase method always gives a new string rather than manipulating the same string 
 
