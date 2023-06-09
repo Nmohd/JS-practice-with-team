@@ -10,3 +10,7 @@ let num2 = 7;
 //== vs ===
 
 // console.log(num1 === num2)
+
+// != vs !==
+
+console.log(num1 != num2)
