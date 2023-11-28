@@ -35,3 +35,4 @@ if (firstName) {
     console.log("first name is emmty")
 }
 
+ 
